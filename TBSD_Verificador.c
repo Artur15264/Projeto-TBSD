@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
-#include "GFLW_Funcoes.h"
+#include "TBSD_Funcoes.h"
 
 #define MAX_PLACAS 10
 
