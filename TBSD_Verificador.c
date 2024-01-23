@@ -11,6 +11,8 @@ int main() {
     int modelo[MAX_PLACAS];
     int numPlacas = 0;
     
+    printf("Adicionando novas funcionalidades");
+
     printf("Digite as placas no formato (ABC1234 ou ABC1D23). Digite 'FIM' para encerrar:\n");
 
     // Coleta e armazena as placas
